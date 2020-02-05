@@ -1,0 +1,34 @@
+body { background-color: rgb(192, 192, 192);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;   
+}
+
+    h3 {
+    color: #1C2331;
+    text-align: center
+    }
+    
+    table {
+        font-family: courier;
+        border: 1px solid black; 
+        margin-left: auto; 
+        margin-right: auto;
+    }
+    
+    tr {
+        font-family: courier;
+        text-align: center; 
+    }
+    
+    td {
+        font-family: courier;
+        text-align: center; 
+    }
+
+    br{
+        margin: 10px
+    }
+
+    link{
+    color: #1C2331;
+    }
